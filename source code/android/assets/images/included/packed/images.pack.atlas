@@ -1,0 +1,123 @@
+
+images.pack.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+body
+  rotate: false
+  xy: 904, 900
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+forearm
+  rotate: false
+  xy: 127, 54
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+handClenched
+  rotate: false
+  xy: 68, 2
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+handOpen
+  rotate: false
+  xy: 95, 2
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 904, 922
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+headt
+  rotate: false
+  xy: 904, 922
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+headAndBody
+  rotate: false
+  xy: 970, 988
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+rock0
+  rotate: false
+  xy: 2, 18
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+rock1
+  rotate: false
+  xy: 68, 28
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+rock2
+  rotate: false
+  xy: 904, 958
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+strawberry-jam
+  rotate: false
+  xy: 2, 84
+  size: 900, 938
+  orig: 900, 938
+  offset: 0, 0
+  index: -1
+upperArm
+  rotate: false
+  xy: 923, 928
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+whitePixel
+  rotate: false
+  xy: 2, 15
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+images.pack2.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+vignette
+  rotate: false
+  xy: 2, 2
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+
+images.pack3.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+ground
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
